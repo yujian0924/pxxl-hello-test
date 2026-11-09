@@ -1,0 +1,12 @@
+{
+  "name": "pxxl-hello-test",
+  "version": "1.0.0",
+  "description": "Minimal Node Hello World for Pxxl free-tier test",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
